@@ -1,4 +1,4 @@
-****Design and Optimization of a Lens-Based Diffraction-Limited Earth Observing Telescope for LEO Applications
+****Design and Optimization of a Lens-Based Diffraction-Limited Earth Observing Telescope for LEO Applications****
 
 This project focuses on designing and optimizing a lens-based diffraction-limited Earth observing telescope tailored for Low Earth Orbit (LEO) applications using Zemax OpticStudio. The goal is to achieve high-resolution imaging with minimal aberrations, suitable for remote sensing and Earth observation.
 
